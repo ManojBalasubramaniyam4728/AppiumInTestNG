@@ -1,0 +1,82 @@
+17:38:42.633 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Opend App And Loged In
+17:41:23.541 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On menuButton
+17:41:26.051 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Waited Till editProfileLink is visable
+17:41:26.740 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On editProfileLink
+17:41:31.580 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Waited Till userImage is visable
+17:41:33.802 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On userImage
+17:41:37.832 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Waited Till userImage is visable
+17:41:59.699 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Swiped Till changePasswordButton is visable
+17:42:00.209 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On changePasswordButton
+17:42:02.154 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Waited Till currentPasswordTextfield is visable
+17:42:02.544 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On currentPasswordTextfield
+17:42:03.461 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Entred CurrentPassword Into enterCurrentPasswordTextfield
+17:42:04.383 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On newPasswordTextfield
+17:42:05.109 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Entred NewPassword Into enterNewPasswordTextfield
+17:42:06.051 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On confirmPasswordTextfield
+17:42:06.786 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Entred ConfirmPassword Into enterConfirmPasswordTextfield
+17:42:07.737 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On saveButton
+17:42:10.649 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Waited Till yourPasswordHasBeenChangedSuccessfullyToasterMessage is visable
+17:42:10.807 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - yourPasswordHasBeenChangedSuccessfullyToasterMessage Is Dispayed In The Application
+17:42:11.212 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Taped On okButton
+17:42:16.833 [main] INFO  ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password - Sucessfully Closed The App
+17:46:54.549 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Opend App And Loged In
+17:47:01.844 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Successfully Waited userNameTextfield is visable
+17:47:07.535 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Taped On userNameTextfield
+17:47:08.506 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Entered userName Into userNameTextfield
+17:47:09.491 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Taped On passwordTextfield
+17:47:10.254 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Entered password Into passwordTextfield
+17:47:11.313 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Taped On goButton
+17:47:15.055 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Waited Till startButton is visable
+17:47:15.465 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Taped On startButton
+17:48:46.232 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Waited Till deviceSetupCompletedSuccessfullyToasterMessage is visable
+17:48:46.622 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Taped On okButton
+17:48:50.387 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Waited Till kuzaLogo is visable
+17:48:51.400 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Kuzalogo Is Displayed In Application
+17:48:51.995 [main] INFO  login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential - Sucessfully Closed The App
+17:49:02.647 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Opend App And Loged In
+17:49:15.232 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Taped on userNameTextfield
+17:49:16.328 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Entered InvalidUserName Into userNameTextfield
+17:49:17.292 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Taped on passwordTextfield
+17:49:18.050 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Entered InvalidPassword Into passwordTextfield
+17:49:18.994 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Taped on goButton
+17:49:20.979 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Waited Untill userNameAndPasswordIncorrectToasterMessage is visable
+17:49:21.090 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - userNameAndPasswordIncorrectToasterMessage Is Displayed In Appliction
+17:49:21.756 [main] INFO  login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password - Sucessfully Closed The App
+17:49:32.411 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Opend App And Loged In
+17:49:45.543 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Taped on userNameTextfield
+17:49:46.535 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Entered InvalidUserName Into userNameTextfield
+17:49:47.493 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Taped on passwordTextfield
+17:49:48.252 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Entered validPassword Into passwordTextfield
+17:49:49.215 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Taped on goButton
+17:49:51.227 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Waited Untill userNameAndPasswordIncorrectToasterMessage is visable
+17:49:51.349 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - userNameAndPasswordIncorrectToasterMessage Is Displayed In Appliction
+17:49:51.917 [main] INFO  login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password - Sucessfully Closed The App
+17:50:02.730 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Opend App And Loged In
+17:50:09.514 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Waited Untill userNameTextfield is visable
+17:50:15.422 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Taped on userNameTextfield
+17:50:16.397 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Entered validUserName Into userNameTextfield
+17:50:17.375 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Taped on goButton
+17:50:18.119 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Entered InvalidPassword Into passwordTextfield
+17:50:19.114 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Taped on goButton
+17:50:21.131 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Waited Untill userNameAndPasswordIncorrectToasterMessage is visable
+17:50:21.257 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - userNameAndPasswordIncorrectToasterMessage Is Displayed In Appliction
+17:50:21.896 [main] INFO  login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password - Sucessfully Closed The App
+17:50:32.432 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - Sucessfully Opend App And Loged In
+17:50:39.675 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - Sucessfully Waited Untill userNameTextfield is visable
+17:50:45.751 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - Sucessfully Taped on goButton
+17:50:47.014 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - Sucessfully Waited Untill enterBothUsernameAndPasswordToasterMessage is visable
+17:50:47.156 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - enterBothUsernameAndPasswordToasterMessage Is Displayed In Appliction
+17:50:47.733 [main] INFO  login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password - Sucessfully Closed The App
+17:50:58.282 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - Sucessfully Opend App And Loged In
+17:53:02.481 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - Sucessfully Taped on syncButton
+17:53:53.823 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - Sucessfully Waited Untill syncCompletedSuccessfullyToasterMessage is visable
+17:53:53.921 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - enterBothUsernameAndPasswordToasterMessage Is Displayed In Appliction
+17:53:54.268 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - Sucessfully Taped on okButton
+17:53:54.906 [main] INFO  Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud - Sucessfully Closed The App
+17:54:05.501 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Opend App And Loged In
+17:56:24.980 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Taped on syncButton
+17:56:33.189 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Wait Untill cancelButton is visable
+17:56:34.309 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Taped on cancelButton
+17:56:35.644 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Wait Untill wouldYouLikeToStoptheSyncToasterMessage is visable
+17:56:35.779 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - enterBothUsernameAndPasswordToasterMessage Is Displayed In Appliction
+17:56:36.435 [main] INFO  Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync - Sucessfully Closed The App

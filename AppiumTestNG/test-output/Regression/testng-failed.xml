@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="AAA_ITestListener.listeneres"/>
+    <listener class-name="Resources.extentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password">
+        <methods>
+          <include name="openkuzaApplication"/>
+          <include name="closeTheApplication"/>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+        </methods>
+      </class> <!-- ChangePassword.CP001_Verify_User_Is_Able_To_Change_The_Password -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential">
+        <methods>
+          <include name="closeKuzaApplication"/>
+          <include name="loginToKuzaApplication"/>
+          <include name="openkuzaApplication"/>
+        </methods>
+      </class> <!-- login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password">
+        <methods>
+          <include name="openkuzaApplication"/>
+          <include name="enterInvalidUsernameAndInvalidPassword"/>
+          <include name="closeTheApplication"/>
+        </methods>
+      </class> <!-- login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password">
+        <methods>
+          <include name="closeTheApplication"/>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+          <include name="openkuzaApplication"/>
+        </methods>
+      </class> <!-- login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test thread-count="5" name="Test4(failed)">
+    <classes>
+      <class name="login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password">
+        <methods>
+          <include name="openkuzaApplication"/>
+          <include name="closeTheApplication"/>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+        </methods>
+      </class> <!-- login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test thread-count="5" name="Test5(failed)">
+    <classes>
+      <class name="login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password">
+        <methods>
+          <include name="openkuzaApplication"/>
+          <include name="closeTheApplication"/>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+        </methods>
+      </class> <!-- login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+  <test thread-count="5" name="Test6(failed)">
+    <classes>
+      <class name="Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud">
+        <methods>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+          <include name="closeTheApplication"/>
+          <include name="openkuzaApplication"/>
+        </methods>
+      </class> <!-- Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud -->
+    </classes>
+  </test> <!-- Test6(failed) -->
+  <test thread-count="5" name="Test7(failed)">
+    <classes>
+      <class name="Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync">
+        <methods>
+          <include name="openkuzaApplication"/>
+          <include name="closeTheApplication"/>
+          <include name="enterInvalidUsernameAndValidPassword"/>
+        </methods>
+      </class> <!-- Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync -->
+    </classes>
+  </test> <!-- Test7(failed) -->
+</suite> <!-- Failed suite [Regression] -->

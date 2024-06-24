@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke">
+<listeners>
+		<listener class-name="AAA_ITestListener.listeneres"/>
+		<listener class-name="Resources.extentReporterNG"/>
+	</listeners>
+	<test name="Test1">
+		<classes>
+			<class name="login.LG001_Verify_User_Is_Able_To_Login_With_Valid_Credential" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="login.LG002_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Invalid_Password" />
+		</classes>
+	</test>
+	<test name="Test3">
+		<classes>
+			<class name="login.LG003_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Invalid_Username_And_Valid_Password" />
+		</classes>
+	</test>
+		<test name="Test4">
+		<classes>
+			<class name="login.LG004_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Enter_Valid_Username_But_Invalid_Password" />
+		</classes>
+	</test>
+		<test name="Test5">
+		<classes>
+			<class name="login.LG005_Verifying_User_Is_Able_To_Get_Error_Message_When_User_Does_Not_Enter_Username_And_Password" />
+		</classes>
+	</test>
+		<test name="Test6">
+		<classes>
+			<class name="Sync.AY001_Verify_User_Is_Able_To_Sync_Data_To_Cloud" />
+		</classes>
+	</test>
+		<test name="Test7">
+		<classes>
+			<class name="Sync.AY002_Verify_User_Is_Able_To_Sync_Data_To_Cloud_In_Menu_Section_And_Cancel_The_Sync" />
+		</classes>
+	</test>
+		<test name="Test8">
+		<classes>
+			<class name="AAServer\start_Server.java" />
+		</classes>
+	</test>
+</suite> 
